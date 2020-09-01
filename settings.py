@@ -1,0 +1,4 @@
+APP_NAME = "TextEd"
+
+WIDTH = 1000
+HEIGHT = 650
